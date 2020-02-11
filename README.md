@@ -1,5 +1,5 @@
 # End-to-End-Memory-Networks
-"End to End Memory Networks" implementated by **Pytorch**
+"End to End Memory Networks" implemented by **Pytorch**
 
 ![alt tag](http://i.imgur.com/nv89JLc.png)
 
